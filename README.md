@@ -40,7 +40,7 @@ php artisan queue:work
 
 ## Usage
 
-Use [Landing](http://127.0.0.1:88) to landing page.
+Use [http://127.0.0.1:88](http://127.0.0.1:88) to landing page.
 
 ## For UnitTest
 
